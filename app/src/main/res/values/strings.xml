@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Demo App</string>
+    <string name="error_message">Sorry, an error has occurred, please try again.</string>
+    <string name="network_error_message">Please check network and try again.</string>
+    <string name="success_message">Success!!</string>
+
+</resources>

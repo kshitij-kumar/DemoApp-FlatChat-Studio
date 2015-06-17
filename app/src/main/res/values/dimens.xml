@@ -1,0 +1,10 @@
+<resources>
+
+    <dimen name="activity_horizontal_margin">10dp</dimen>
+    <dimen name="divider_height">10dp</dimen>
+    <dimen name="text_margin">10dp</dimen>
+    <dimen name="text_line_spacing">3sp</dimen>
+    <dimen name="text_size">19sp</dimen>
+    <dimen name="image_height">300dp</dimen>
+
+</resources>
